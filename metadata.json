@@ -1,0 +1,6 @@
+{
+  "name": "3D Developer Portfolio",
+  "description": "Interactive 3D developer portfolio and personal homepage featuring Three.js, React Three Fiber, interactive island navigation, projects, and contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
